@@ -1,0 +1,8 @@
+services:
+  lb:
+    image: lb
+    build: ./lb
+    ports:
+      - "9545:5000"
+    env_file:
+      - rpc.txt

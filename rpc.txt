@@ -1,0 +1,1 @@
+RPCS=https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7,https://cloudflare-eth.com/
